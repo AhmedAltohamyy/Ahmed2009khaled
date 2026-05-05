@@ -1,10 +1,31 @@
-- 👋 Hi, I’m Ahmed_khaled
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... expert python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...+201157844805
+# Hi, I'm Ahmed Khaled 👋
 
-<!---
-Ahmed2009khaled/Ahmed2009khaled is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Flutter Developer focused on building clean and user-friendly mobile applications.
+
+## 🚀 About Me
+- 📱 I specialize in Flutter mobile development
+- 🧠 Currently improving my skills in clean architecture & state management
+- 🎯 Goal: Become a professional mobile developer and build impactful apps
+
+## 🛠 Tech Stack
+- Flutter & Dart
+- Hive (Local Storage)
+- Basic Python & C++
+- HTML & CSS
+
+## 📌 Featured Project
+
+### 📝 To Do List App
+A clean and simple productivity app built with Flutter.
+
+✨ Features:
+- Add, edit, and delete tasks
+- Local storage using Hive
+- Smooth animations
+- Dark & Light mode
+- Task sorting by date
+
+📂 Check it here: ()
+
+## 📫 Contact Me
+- LinkedIn: ()
